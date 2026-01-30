@@ -9,7 +9,7 @@
       
   👀 I’m interested in all things IT! 🖥️ I have experience in IT Support, Database Management, IT Instruction, and Cybersecurity...
       
-  🌱 I’m creating with Python & Bash while keeping my certs active.💡 Also exploring Linux administration as Windows goes agentic... ⏲️
+  🌱 I’m creating with Python & Bash while keeping my certs active while exploring Linux administration as Windows goes agentic... ⏲️
       
   💞️ I’m looking to bring my skills to an organization that values their talent!
       
