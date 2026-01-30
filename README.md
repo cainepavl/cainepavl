@@ -5,7 +5,7 @@
 </p>
 
 
-  👋 Hi, I’m @cainepavl and this is my best friend Annie! 🐶
+  👋 Hi, I’m Caine and this is my best friend Annie! 🐶
       
   👀 I’m interested in all things IT! 🖥️ I have experience in IT Support, Database Management, IT Instruction, and Cybersecurity...
       
