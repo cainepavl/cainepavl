@@ -15,7 +15,7 @@
       
   💞️ I’m looking to bring my skills to an organization that values their talent!
       
-  🔭 Check out my portfolio website:  🐍 [My Website](https://surelynot.pythonanywhere.com/) 🐍
+  🔭 Check out my portfolio website:  🐍 [My Website](https://fairdinkumstudios.com/) 🐍
                 
   ⚡ Fun fact: I am a MEAN cook! 🔥 🔥 🔥
 <h3 align="left">Connect with me:</h3>
