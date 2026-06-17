@@ -11,7 +11,7 @@
       
   👀 I’m interested in all things IT! 🖥️ I have experience in IT Support, Database Management, IT Instruction, and Cybersecurity...
       
-  🌱 I’m creating with Claude Code, Python & Bash, keeping my certs active, and exploring Linux administration as Windows goes agentic... ⏲️
+  🌱 I’m creating with Claude Code, Python & Bash, learning DFIR, and exploring Linux administration as Windows goes agentic... ⏲️
       
   💞️ I’m looking to bring my skills to an organization that values their talent!
       
